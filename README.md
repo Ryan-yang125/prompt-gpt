@@ -1,0 +1,1 @@
+This is an application built using langchainjs and nextjs. It automatically uses the best prompt based on your needs during chat.
